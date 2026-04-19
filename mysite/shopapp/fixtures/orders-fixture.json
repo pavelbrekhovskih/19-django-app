@@ -1,0 +1,16 @@
+[
+  {
+    "model": "shopapp.order",
+    "pk": 1,
+    "fields": {
+      "delivery_adress": "ul Krusty, d 12",
+      "promocode": "SALE123",
+      "created_at": "2024-03-30T19:21:51.030Z",
+      "user": 1,
+      "products": [
+        1,
+        3
+      ]
+    }
+  }
+]

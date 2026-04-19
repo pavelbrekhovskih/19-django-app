@@ -1,0 +1,27 @@
+{% extends 'shopapp/base.html' %}
+{% load cache %}
+
+{% block title %}
+	Shop Index
+{% endblock %}
+
+{% block body %}
+	<h1>Shop Pages</h1>
+	<div>
+		<ul>
+			<li><a href="{% url 'shopapp:products_list' %}">Products List</a></li>
+			<li><a href="{% url 'shopapp:orders_list' %}">Orders List</a></li>
+		</ul>
+	</div>
+	<div>
+		<strong>
+			You have {{ items }} cherr{{ items|pluralize:"y,ies" }}
+		</strong>
+	</div>
+  <div>Time Running {{ time_running }}</div>
+	{% cache 100 lorem %}
+	<div>
+		{% lorem 3 p random %}
+	</div>
+	{% endcache %}
+{% endblock %}

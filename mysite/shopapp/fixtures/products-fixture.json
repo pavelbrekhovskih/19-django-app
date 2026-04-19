@@ -1,0 +1,98 @@
+[
+  {
+    "model": "shopapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Laptop",
+      "description": "Lorem ipsum dolor sit amet, c",
+      "price": "15000.45",
+      "discount": 20,
+      "created_at": "2024-03-30T19:18:05.848Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Smartphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ducimus fuga reiciendis illum blanditiis enim laborum facilis tempore aliquid obcaecati maiores debitis accusantium adipisci, explicabo, magnam qui libero amet iure!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ducimus fuga reiciendis illum blanditiis enim laborum facilis tempore aliquid obcaecati maiores debitis accusantium adipisci, explicabo, magnam qui libero amet iure!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ducimus fuga reiciendis illum blanditiis enim laborum facilis tempore aliquid obcaecati maiores debitis accusantium adipisci, explicabo, magnam qui libero amet iure!",
+      "price": "45000.45",
+      "discount": 0,
+      "created_at": "2024-03-30T19:18:05.872Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 6,
+    "fields": {
+      "name": "Desktop",
+      "description": "gdfgdfg",
+      "price": "456.00",
+      "discount": 0,
+      "created_at": "2024-12-17T16:05:49.732Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 7,
+    "fields": {
+      "name": "Tablet",
+      "description": "great thing",
+      "price": "1234.00",
+      "discount": 0,
+      "created_at": "2024-12-23T16:16:30.859Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 8,
+    "fields": {
+      "name": "phone2",
+      "description": "phone 2 better than phone 1 and great",
+      "price": "10000.00",
+      "discount": 0,
+      "created_at": "2024-12-24T11:04:31.786Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 9,
+    "fields": {
+      "name": "Phone 3",
+      "description": "phone 3",
+      "price": "999.42",
+      "discount": 12,
+      "created_at": "2024-12-24T12:47:02.547Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 10,
+    "fields": {
+      "name": "Tablet 2",
+      "description": "a new tablet",
+      "price": "1500.00",
+      "discount": 15,
+      "created_at": "2024-12-24T12:49:46.554Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 11,
+    "fields": {
+      "name": "SmartWatch",
+      "description": "smart watch for old people",
+      "price": "1000.00",
+      "discount": 12,
+      "created_at": "2025-03-07T13:55:09.844Z",
+      "archived": false
+    }
+  }
+]

@@ -1,0 +1,2002 @@
+2026-02-18 15:50:46,069 [INFO] shopapp.views: Rendering shop index
+2026-02-18 15:51:06,589 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-18 15:51:07,390 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-18 15:51:59,861 [INFO] shopapp.views: Rendering shop index
+2026-02-18 15:52:01,053 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-18 15:52:41,815 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-18 15:52:42,052 [INFO] shopapp.views: Rendering shop index
+2026-02-18 15:56:17,158 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-18 15:56:17,955 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:21:00,655 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:21:02,050 [INFO] shopapp.views: Rendering shop index
+2026-02-19 08:21:02,147 [WARNING] django.request: Not Found: /favicon.ico
+2026-02-19 08:31:15,674 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:31:22,513 [INFO] shopapp.views: Rendering shop index
+2026-02-19 08:53:21,749 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:53:22,437 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:54:28,364 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:54:28,980 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:56:04,421 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:56:05,039 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:56:20,295 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:56:20,922 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:56:33,982 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:56:34,600 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:59:30,418 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:59:31,050 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-19 08:59:46,243 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\16.Django-logging\mysite\mysite\settings.py changed, reloading.
+2026-02-19 08:59:47,068 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-24 10:17:32,084 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-02-24 10:17:39,243 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-01 15:59:15,145 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-01 16:01:15,138 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/mysite/myauth/views.py changed, reloading.
+2026-03-01 16:01:15,635 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-01 16:01:33,315 [WARNING] django.request: Not Found: /
+2026-03-01 16:01:34,256 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-01 16:01:58,363 [WARNING] django.request: Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-03-01 16:02:10,280 [WARNING] django.request: Not Found: /
+2026-03-01 16:02:10,415 [WARNING] django.request: Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-03-01 16:02:16,707 [WARNING] django.request: Not Found: /
+2026-03-01 16:02:16,845 [WARNING] django.request: Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-03-01 16:02:17,937 [WARNING] django.request: Not Found: /
+2026-03-01 16:02:18,055 [WARNING] django.request: Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-03-01 16:03:26,419 [INFO] shopapp.views: Rendering shop index
+2026-03-18 20:31:09,096 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-18 20:31:21,111 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-18 20:31:48,420 [WARNING] django.request: Not Found: /ru/shop/export
+2026-03-18 20:35:05,796 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/mysite/shopapp/views.py changed, reloading.
+2026-03-18 20:35:06,602 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-18 20:35:55,950 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/mysite/shopapp/views.py changed, reloading.
+2026-03-18 20:35:57,009 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-18 20:36:02,947 [ERROR] django.request: Internal Server Error: /ru/shop/products/export/
+Traceback (most recent call last):
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/mysite/shopapp/views.py", line 177, in get
+    name = elem['naem']
+           ~~~~^^^^^^^^
+KeyError: 'naem'
+2026-03-18 21:35:05,539 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/16.Django-logging/mysite/mysite/settings.py changed, reloading.
+2026-03-19 15:15:59,833 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:16:02,447 [WARNING] django.request: Not Found: /
+2026-03-19 15:16:03,363 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-19 15:16:22,626 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-19 15:23:44,630 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:23:45,496 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:30:25,118 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:30:25,992 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:30:26,819 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:35,728 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:36,846 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:38,492 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:39,429 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:41,133 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:31:42,171 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':import_products_csv' from 'admin:import_products_csv'
+2026-03-19 15:37:44,285 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:37:45,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:41:03,730 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:41:04,594 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:42:07,780 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:42:08,617 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:43:32,663 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:43:33,501 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:53:52,566 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:53:53,417 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:54:46,956 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:54:47,806 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:56:06,521 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:56:07,386 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:57:07,017 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:57:07,854 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:57:42,283 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:57:43,111 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:58:05,646 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 15:58:06,495 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 15:58:41,126 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1715, in to_python
+    return decimal.Decimal(value)
+           ^^^^^^^^^^^^^^^^^^^^^^
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 107, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 816, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1817, in _batched_insert
+    self._insert(
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1659, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1585, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1523, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1725, in get_db_prep_save
+    self.to_python(value), self.max_digits, self.decimal_places
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1717, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ["“'2999.0'” value must be a decimal number."]
+2026-03-19 15:59:18,954 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 102, in import_csv
+    Product(**row)
+TypeError: keywords must be strings
+2026-03-19 16:04:25,401 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 102, in import_csv
+    Product(**row)
+TypeError: keywords must be strings
+2026-03-19 16:05:00,686 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 102, in import_csv
+    Product(**row)
+TypeError: keywords must be strings
+2026-03-19 16:05:05,401 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 102, in import_csv
+    Product(**row)
+TypeError: keywords must be strings
+2026-03-19 16:05:34,543 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 16:05:35,420 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 16:05:38,841 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 103, in import_csv
+    Product(**row)
+TypeError: keywords must be strings
+2026-03-19 16:06:21,353 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 16:06:22,207 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 16:06:23,008 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 108, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 795, in bulk_create
+    self._prepare_for_bulk_create(objs)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 679, in _prepare_for_bulk_create
+    if obj.pk is None:
+       ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'pk'
+2026-03-19 16:09:34,814 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 108, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 795, in bulk_create
+    self._prepare_for_bulk_create(objs)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 679, in _prepare_for_bulk_create
+    if obj.pk is None:
+       ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'pk'
+2026-03-19 16:11:27,303 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 16:11:28,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-19 16:11:29,001 [ERROR] django.request: Internal Server Error: /admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1715, in to_python
+    return decimal.Decimal(value)
+           ^^^^^^^^^^^^^^^^^^^^^^
+decimal.InvalidOperation: [<class 'decimal.ConversionSyntax'>]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py", line 107, in import_csv
+    Product.objects.bulk_create(products)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 816, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1817, in _batched_insert
+    self._insert(
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1659, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1585, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1523, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1725, in get_db_prep_save
+    self.to_python(value), self.max_digits, self.decimal_places
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1717, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['“2999,0” value must be a decimal number.']
+2026-03-19 16:12:29,773 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-19 16:12:30,619 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:14:29,597 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:14:41,572 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-20 14:14:43,822 [ERROR] django.request: Internal Server Error: /ru/shop/products/export/
+Traceback (most recent call last):
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py", line 177, in get
+    name = elem['naem']
+           ~~~~^^^^^^^^
+KeyError: 'naem'
+2026-03-20 14:16:01,439 [WARNING] django.request: Not Found: /ru/admin
+2026-03-20 14:20:12,778 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py changed, reloading.
+2026-03-20 14:20:13,777 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:23:37,736 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py changed, reloading.
+2026-03-20 14:23:38,881 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:24:11,998 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py changed, reloading.
+2026-03-20 14:24:12,889 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:28:38,458 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py changed, reloading.
+2026-03-20 14:28:39,303 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-20 14:29:48,127 [INFO] django.utils.autoreload: /home/user/Work/Itwas/Study/Skillbox/Django/Django/17.Django-import-export/mysite/shopapp/views.py changed, reloading.
+2026-03-20 14:29:48,950 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 14:58:02,533 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 14:58:06,698 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-23 15:16:10,962 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:16:11,826 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:18:57,833 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:18:58,687 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:20:04,251 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:20:05,074 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:20:27,612 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:20:28,434 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:27:04,396 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:27:05,322 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:28:53,585 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:31:52,313 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:31:53,164 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:31:53,852 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:31:57,138 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:32:01,173 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:33:53,078 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:33:53,944 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 15:33:56,455 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:35:23,654 [ERROR] django.request: Internal Server Error: /en/shop/api/products/download_csv/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py", line 67, in download_csv
+    queryset = queryset.only(fields)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\db\models\query.py", line 1717, in only
+    field = field.split(LOOKUP_SEP, 1)[0]
+            ^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'split'
+2026-03-23 15:39:12,968 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 15:39:13,821 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 16:12:36,118 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-23 16:12:37,001 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 16:48:45,869 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\admin.py changed, reloading.
+2026-03-23 16:48:46,799 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 16:52:43,410 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 16:52:44,244 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 16:57:13,921 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\shopapp\views.py changed, reloading.
+2026-03-23 16:57:14,840 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-23 16:57:23,773 [WARNING] django.request: Method Not Allowed: /en/shop/api/products/upload_csv/
+2026-03-24 08:35:19,819 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 08:35:32,934 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-24 11:17:26,991 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\mysite\urls.py changed, reloading.
+2026-03-24 11:17:28,044 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:20:17,132 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\models.py changed, reloading.
+2026-03-24 11:20:18,011 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:31:37,811 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\urls.py changed, reloading.
+2026-03-24 11:31:38,716 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:32:18,205 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\urls.py changed, reloading.
+2026-03-24 11:32:19,061 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:33:21,142 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\urls.py changed, reloading.
+2026-03-24 11:33:21,996 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:34:39,166 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\urls.py changed, reloading.
+2026-03-24 11:34:40,022 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 11:34:49,050 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:37:48,562 [WARNING] django.request: Not Found: /blog/article
+2026-03-24 11:37:52,095 [WARNING] django.request: Not Found: /blog/article/
+2026-03-24 11:42:06,419 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:42:07,043 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:43:33,957 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:43:34,466 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:43:35,699 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:43:44,202 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:44:47,292 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:44:48,370 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:50:02,084 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:50:02,995 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:51:47,844 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:51:48,507 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:51:50,220 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:52:42,679 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:52:43,326 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:52:43,926 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:52:44,397 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:53:19,455 [WARNING] django.request: Not Found: /blog/articles/2/
+2026-03-24 11:57:34,380 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:57:35,403 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:57:36,787 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:58:37,731 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:59:12,827 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 11:59:13,404 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_list.html
+2026-03-24 12:04:56,082 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 12:04:59,639 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 954, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 854, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':article' from 'blogapp:article'
+2026-03-24 12:05:01,521 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 954, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 854, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 1373, in url
+    viewname = parser.compile_filter(bits[1])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ':article' from 'blogapp:article'
+2026-03-24 13:39:32,916 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\admin.py changed, reloading.
+2026-03-24 13:39:33,910 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 13:40:07,922 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\admin.py changed, reloading.
+2026-03-24 13:40:08,790 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 13:41:41,380 [WARNING] django.request: Not Found: /blogapp/articles
+2026-03-24 13:46:53,333 [ERROR] django.request: Internal Server Error: /blog/articles/1/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'articles_list' not found. 'articles_list' is not a valid view function or pattern name.
+2026-03-24 13:47:22,672 [ERROR] django.request: Internal Server Error: /blog/articles/1/
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'articles_list' not found. 'articles_list' is not a valid view function or pattern name.
+2026-03-24 13:47:52,910 [WARNING] django.request: Not Found: /blog/articles/11/
+2026-03-24 13:54:55,460 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\admin.py changed, reloading.
+2026-03-24 13:54:56,366 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 13:56:04,749 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\admin.py changed, reloading.
+2026-03-24 13:56:05,609 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 13:56:20,104 [WARNING] django.request: Not Found: /blog/articles/11/
+2026-03-24 14:05:27,401 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\views.py changed, reloading.
+2026-03-24 14:05:28,276 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 14:08:15,196 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\views.py changed, reloading.
+2026-03-24 14:08:16,053 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 14:09:19,025 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\views.py changed, reloading.
+2026-03-24 14:09:20,432 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 14:12:20,883 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\views.py changed, reloading.
+2026-03-24 14:12:21,739 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 14:17:15,907 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\views.py changed, reloading.
+2026-03-24 14:17:16,775 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 14:19:08,007 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\blogapp\urls.py changed, reloading.
+2026-03-24 14:19:08,861 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 15:52:29,947 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\mysite\urls.py changed, reloading.
+2026-03-24 15:52:30,945 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 15:52:51,271 [ERROR] django.request: Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+2026-03-24 15:53:42,154 [ERROR] django.request: Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+2026-03-24 15:53:43,041 [ERROR] django.request: Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+2026-03-24 15:53:43,165 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\17.Django-import-export\mysite\mysite\settings.py changed, reloading.
+2026-03-24 15:53:44,046 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 16:58:27,048 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 17:06:15,397 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\mysite\settings.py changed, reloading.
+2026-03-24 17:06:16,243 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 17:06:26,112 [INFO] shopapp.views: Rendering shop index
+2026-03-24 17:06:32,837 [WARNING] django.request: Not Found: /en/shop/index
+2026-03-24 18:09:01,128 [INFO] shopapp.views: Rendering shop index
+2026-03-24 18:09:45,323 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-24 18:09:46,292 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:19:01,727 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\mysite\settings.py changed, reloading.
+2026-03-24 18:19:02,581 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:20:31,327 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\myauth\views.py changed, reloading.
+2026-03-24 18:20:32,164 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:20:50,536 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\myauth\views.py changed, reloading.
+2026-03-24 18:20:51,363 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:23:14,916 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\myauth\views.py changed, reloading.
+2026-03-24 18:23:15,780 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:24:52,387 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\urls.py changed, reloading.
+2026-03-24 18:24:53,235 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:30:49,502 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\urls.py changed, reloading.
+2026-03-24 18:30:50,350 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:32:00,584 [INFO] shopapp.views: Rendering shop index
+2026-03-24 18:41:34,590 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-24 18:41:35,452 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:42:30,207 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-24 18:42:31,036 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:43:13,897 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-24 18:43:14,768 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:44:21,802 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-24 18:44:22,647 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:45:56,911 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\urls.py changed, reloading.
+2026-03-24 18:45:57,776 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-24 18:46:05,631 [INFO] shopapp.views: Rendering shop index
+2026-03-25 07:38:18,218 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-25 07:38:26,905 [INFO] shopapp.views: Rendering shop index
+2026-03-25 07:38:27,236 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-25 08:06:34,822 [WARNING] django.request: Not Found: /favicon.ico
+2026-03-25 08:09:09,926 [WARNING] django.request: Not Found: /accounts/reset/NA/set-password/
+2026-03-25 08:09:14,363 [WARNING] django.request: Not Found: /accounts/reset/123123123/cuh62i-54a232873d6c5f0e85d69d1d36c820d5/
+2026-03-25 08:09:16,475 [WARNING] django.request: Not Found: /accounts/password-change/done/
+2026-03-25 08:59:18,053 [INFO] shopapp.views: Rendering shop index
+2026-03-25 08:59:25,722 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:05:07,129 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:05:07,298 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-25 09:05:08,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-25 09:05:09,223 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:07:32,868 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-25 09:07:33,724 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-25 09:08:38,815 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:39,486 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:40,254 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:41,135 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:41,958 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:42,413 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:42,638 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:42,838 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:43,037 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:43,230 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:43,438 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:43,645 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:43,869 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:44,246 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:08:44,853 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:10:24,405 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:10:26,197 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:10:26,884 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:10:27,629 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:10:28,797 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:16,456 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:16,975 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:17,353 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:37,102 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:37,514 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:37,871 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:38,074 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:38,263 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:38,459 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:38,641 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:38,844 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:39,047 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:39,257 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:39,457 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:39,681 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:39,890 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:15:40,069 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:38,690 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:39,713 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:43,458 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:43,937 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:51,930 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:52,570 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:17:53,034 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:19:39,793 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:22:26,528 [INFO] shopapp.views: Rendering shop index
+2026-03-25 09:22:28,863 [INFO] shopapp.views: Rendering shop index
+2026-03-25 10:31:01,398 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-25 10:31:02,359 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-25 10:36:46,738 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\shopapp\views.py changed, reloading.
+2026-03-25 10:36:47,673 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2026-03-25 10:48:45,327 [INFO] django.utils.autoreload: C:\Data\Others\Itwas\Study\Skillbox\Django\18.Django-caching\mysite\mysite\settings.py changed, reloading.
+2026-03-25 10:48:46,203 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
